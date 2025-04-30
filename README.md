@@ -1,2 +1,8 @@
 # excel-tables-pivottables-analytics-ai
-Excel tables &amp; PivotTables for Analytics &amp; AI 
+
+Agenda
+
+1. Tables basics
+2. Recommended Charts & PivotTables
+3. Analyze Data 
+4. Power Query Unpivot
