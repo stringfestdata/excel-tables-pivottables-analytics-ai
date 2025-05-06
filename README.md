@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # excel-tables-pivottables-analytics-ai
 
 Agenda
@@ -6,3 +7,7 @@ Agenda
 2. Recommended Charts & PivotTables
 3. Analyze Data 
 4. Power Query Unpivot
+=======
+# must-know-features-python-in-excel
+Must-know features for Python in Excel
+>>>>>>> Stashed changes
